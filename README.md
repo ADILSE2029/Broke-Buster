@@ -29,13 +29,12 @@ python main.py
 - main.py — entry point and menu handling
 - brokebuster.txt — auto-generated file where your data is stored
 
-## Built with
-
-Python — file I/O, OOP, CLI input handling
 
 ## Note
 
 First Version - Febraury 2026 <br>
 Final version - April 2026
+
+## Author
 
 Made by Adil Amin
